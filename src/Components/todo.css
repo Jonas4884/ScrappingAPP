@@ -1,0 +1,36 @@
+.task{
+    width: auto;
+    height: auto;
+    display: flex;
+    margin: 20px 5px 5px 5px !important;
+}
+.task .content{
+    flex: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #282c34 solid 1px;
+    padding:5px 5px 5px 5px;
+    border-radius: 30px;
+    background: linear-gradient(147deg, #cacaca, #f0f0f0);
+    box-shadow:  12px 12px 24px #acacac
+}
+
+.task .content span{
+    display: grid;
+    place-items: center;
+    width: 100%;
+    margin-outside:20px ;
+}
+
+.task button {
+    flex: 20%;
+    height: auto;
+    border: none;
+    color: white;
+    background-color: #282c34;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    cursor: pointer;
+}
