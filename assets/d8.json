@@ -1,0 +1,86 @@
+ [
+  {
+    "text": "Dev Js Back (NodeJs)",
+    "title": "SAYNA",
+    "Contrat": "Contrat CDI / freelance",
+    "description":
+        "-Développer des solutions et des applications web en tenant compte du délai et du budget -Valider avec l'ensemble de son équipe les fonctionnalités mises en place -Participer aux tests unitaires…"
+  },
+  {
+    "text": "Dev Js Front (Angular/React/Vue/svelte)",
+    "title": "SAYNA",
+    "Contrat": "Contrat CDI / freelance",
+    "description":
+        "-Manager une équipe de développeurs FE: coacher, accompagner et résoudre les problèmes techniques rencontrés -Être le référent en matière de code et mettre en place les bonnes pratiques -Assurer des tâches…"
+  },
+  {
+    "text": "Lead Dev Mobile (Ionic/Flutter)",
+    "title": "SAYNA",
+    "Contrat": "Contrat freelance/consultance/ ou CDD",
+    "description":
+        "- Manager une équipe de développeurs: coacher, accompagner et résoudre les problèmes techniques rencontrés - Être le référent en matière de code et mettre en place les bonnes pratiques - Assurer des tâches…"
+  },
+  {
+    "text": "Dev Senior ou Lead Dev CMS (vitrine/e-commerce)",
+    "title": "SAYNA",
+    "Contrat": "Contrat CDI",
+    "description":
+        "-Encadrer et former son équipe de développeurs de manière à assurer la réussite du projet -Mobiliser ses connaissances pour répondre au cahier des charges du client -Coder les parties spécifiques -Superviser…"
+  },
+  {
+    "text": "Infographiste Intégrateur (hmtl/css/js)",
+    "title": "SAYNA",
+    "Contrat": "Contrat freelance/consultance/ou CDD",
+    "description":
+        "- Découper les maquettes graphiques validées par les clients et faire les intégrations en page web responsive - Proposer et adapter des templates selon les besoins des projets - Concevoir, programmer…"
+  },
+  {
+    "text": "Administrateur Systèmes Linux & Réseaux - Technicien support VPS",
+    "title": "LWS",
+    "Contrat": "Contrat Free-lance",
+    "description":
+        "Dans le cadre de son développement, LWS recherche toujours un Administrateur Systèmes Linux & Réseaux et Technicien support VPS. Au sein de l'équipe chargée du SI de LWS, vous participez à l'administration…"
+  },
+  {
+    "text": "Dev ASP.NET",
+    "title": "Bolzano SARL",
+    "Contrat": "Contrat CDI",
+    "description":
+        "CDD renouvelable Poste en déplacement ou en remote Maîtrise de la langue française"
+  },
+  {
+    "text": "Développeur PYTHON",
+    "title": "Tanyah Consulting",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Développement, grâce à différentes api, d'un environnement de scripts pour les adapter aux besoins de la production Les scripts permettant d'alimenter en données des tableaux de bord pour le…"
+  },
+  {
+    "text": "Développeur Web Fullstack Node React - TypeScript",
+    "title": "MaaSil Inc",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Expert en ReactJs Expert en NodeJs / NestJs Vous codez au quotidien avec TypeScript Vous connaissez GraphQL Vous connaissez les bonnes pratiques de développement Rémunération / Avantages : Salaire à négocier…"
+  },
+  {
+    "text": "DevOps",
+    "title": "MaaSil Inc",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Vous avez plusieurs années d'expériences en tant que devOps GCP Stack : GitLab, GCP, GKE, stockage, redis managé BDD : PostGresql Vous avez déjà réalisé des tests de montée en charges Vous pouvez…"
+  },
+  {
+    "text": "DSI GROUPE",
+    "title": "RECRUITMENT CONSULTING",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Un groupe multisectoriel d’envergure nationale recrute son DSI GROUPE. Missions : Le Directeur des Systèmes d’Informations a pour principale mission de planifier et mettre en œuvre les politiques informatiques…"
+  },
+  {
+    "text": "MANAGER RESPONSABLE - SERVICE INFORMATIQUE -réf:REF_RESP-INFO",
+    "title": "ENTREPRISE ENCOURS",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Vous avez de l’expérience dans le domaine dans le domaine du Web et de l’informatique. Nous sommes à la recherche d’un responsable informatique dans le domaine du Web. Vos missions consistent à assurer…"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "text": "STAGIAIRE TECHNICIEN INFORMATIQUE -réf:SIT",
+    "title": "Cap Intel",
+    "Contrat": "Contrat Stage",
+    "description":
+        "Vous êtes jeune et dynamique? Vous maîtrisez les OUTILS des centres d'appel? vous maîtrisez les langages de développement web? Vous êtes la personne idéale"
+  },
+  {
+    "text": "DEVELOPPEUR PRESTASHOP",
+    "title": "PROGRESSIO",
+    "Contrat": "Contrat CDI",
+    "description":
+        "•Chargé(e) de développer et maintenir le back office ou optimisation de PrestaShop •Chargé(e) du développement de thème ou de modules •Traiter les demandes de développement spécifique"
+  },
+  {
+    "text": "Développeur Frontend et/ou Backend",
+    "title": "Haizaha",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Dans le cadre de notre développement, nous recherchons des développeurs Frontend et/ou Backend en Local (Tanjombato, Antananarivo 102) Frontend dev: - UX/UI design : Figma, Adobe XD, Webflow - html/css/js…"
+  },
+  {
+    "text": "Développeur Business Intelligence SENIOR",
+    "title": "Webhelp Antananarivo",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Vous êtes en charge du développement de la nouvelle plateforme BI (Data Lake, Datawarehouse, Cubes) : Call Management Systems, internes ou externes Vous êtes également en charge de la maintenance corrective…"
+  },
+  {
+    "text": "RESPONSABLE ETUDES ET DEVELOPPEMENT INFORMATIQUE",
+    "title": "Recruitment consulting",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Un groupe d'envergure recherche: un/une RESPONSABLE ÉTUDES ET DÉVELOPPEMENT INFORMATIQUE spécialisé en SAGE X3 Principales missions: Le Responsable Études et Développement Informatique est principalement…"
+  },
+  {
+    "text": "INGENIEUR D’ASSISTANCE INFORMATIQUE",
+    "title": "Recruitment consulting",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Un groupe d'envergure spécialisé en energies renouvelables, en zones franches industrielles et en immobilier recherche un technicien/ingénieur d'assistance informatique (disponible de suite)…"
+  },
+  {
+    "text": "CONSULTANT FONCTIONNEL",
+    "title": "Recruitment consulting",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Un groupe d'envergure international représentant de ERP Sage recherche: un consultant fonctionnel Missions: • Étudier les besoins du Client • Effectuer les présentations du logiciel auprès des Clients…"
+  },
+  {
+    "text": "CHARGEE D’ETUDE SI - BANCAIRE",
+    "title": "Recruitment consulting",
+    "Contrat": "Contrat CDI",
+    "description":
+        "- Assurer l'Analyse technique détaillée pour l’assemblage des interconnexions entre le SI - Participe à la conception technique du logiciel - Effectuer le test unitaire, des logiciels en répondant…"
+  },
+  {
+    "text": "RESPONSABLE SSI -(Sécurité IT)- Bancaire",
+    "title": "Recruitment consulting",
+    "Contrat": "Contrat CDI",
+    "description":
+        "-Identifier des risques et définition de la politique de sécurité -Assurer la mise en œuvre et suivi du dispositif de sécurité -Gérer la communication et formation sur les normes de sécurité -Assurer…"
+  },
+  {
+    "text": "Developpeur full stack",
+    "title": "Livenexx",
+    "Contrat": "Contrat CDI",
+    "description":
+        "Livenexx est une agence de développement web crée en 2016 qui compte désormais plus de trente-cinq collaborateurs dont le siège social est à l’île Maurice et le centre de production à Madagascar. Notre…"
+  },
+  {
+    "text":
+        "Développeur Javascript : Ptyhon, webscrapping, React, Angular, Vue",
+    "title": "Sourcing Corporation",
+    "Contrat": "Contrat CDD 01 an renouvelable",
+    "description":
+        "- Analyser et répondre aux cahier des charges - Réalisation de maquettes et prototype de produit - Développement d’application Web ou de bureau et de gestion - Amélioration de fonctionnalités - Correction…"
+  },
+  {
+    "text": "Dévelopeur Java : J2EE/Lifrey/Springboot",
+    "title": "Sourcing Corporation",
+    "Contrat": "Contrat CDD 01 an renouvelable",
+    "description":
+        "- Créer un programme informatique en langage JAVA avec utilisation des framework J2EE/Liferay/Springboot - Assurer également la maintenance des applications crées et mises en place - Analyser les besoins…"
+  }
+]
